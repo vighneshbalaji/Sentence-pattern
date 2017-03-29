@@ -1,0 +1,422 @@
+<qpaper>
+<ques>
+<p1>Birds-Spoken about</p1>
+<p2>fly-Action performed</p2>
+<p3>-</p3>
+<p4>-</p4>
+<cans>SV</cans>
+</ques>
+<ques>
+<p1>He-Spoken about</p1>
+<p2>kicked-Action performed</p2>
+<p3>the ball-What was ..</p3>
+<p4>-</p4>
+<cans>SVO</cans>
+</ques>
+<ques>
+<p1>We-Spoken about</p1>
+<p2>went-Action performed</p2>
+<p3>to a movie-Where did ..</p3>
+<p4>-</p4>
+<cans>SVA</cans>
+</ques>
+<ques>
+<p1>Today-When are ..</p1>
+<p2>we-Spoken about</p2>
+<p3>will play-Action performed</p3>
+<p4>chess-What was...</p4>
+<cans>ASVO</cans>
+</ques>
+<ques>
+<p1>Shruthi-Spoken about</p1>
+<p2>is-be form of ..</p2>
+<p3>a doctor-Finish..</p3>
+<p4>-</p4>
+<cans>SVC</cans>
+</ques>
+<ques>
+<p1>He-Spoken about</p1>
+<p2>played-Action performed</p2>
+<p3>the guitar-What is ..</p3>
+<p4>well-How was ..</p4>
+<cans>SVOA</cans>
+</ques>
+<ques>
+<p1>Laxmi-Spoken about</p1>
+<p2>gave-Action performed</p2>
+<p3>him-To whom</p3>
+<p4>a gold coin-What was ..</p4>
+<cans>SVIODO</cans>
+</ques>
+<ques>
+<p1>This-Spoken about</p1>
+<p2>is-be form of ..</p2>
+<p3>an excellent book-finish it</p3>
+<p4>-</p4>
+<cans>SVC</cans>
+</ques>
+<ques>
+<p1>They-Spoken about</p1>
+<p2>painted-Action performed</p2>
+<p3>the car-What was ..</p3>
+<p4>grey-finish it</p4>
+<cans>SVOC</cans>
+</ques>
+<ques>
+<p1>The world bank-Spoken about</p1>
+<p2>gave-Action performed</p2>
+<p3>India-To whom</p3>
+<p4>a huge loan-What was ..</p4>
+<cans>SVIODO</cans>
+</ques>
+<ques>
+<p1>The sun-Spoken about</p1>
+<p2>is shining-Action performed</p2>
+<p3>-</p3>
+<p4>-</p4>
+<cans>SV</cans>
+</ques>
+<ques>
+<p1>Shruthi-Spoken about</p1>
+<p2>told-Action performed</p2>
+<p3>Manasi-To whom</p3>
+<p4>the story-What was ..</p4>
+<cans>SVIODO</cans>
+</ques>
+<ques>
+<p1>You-Spoken about</p1>
+<p2>arrange-Action performed</p2>
+<p3>the flowers-What is ..</p3>
+<p4>-</p4>
+<cans>SVO</cans>
+</ques>
+<ques>
+<p1>They-Spoken about</p1>
+<p2>are-be form of ..</p2>
+<p3>teachers-finish it</p3>
+<p4>-</p4>
+<cans>SVC</cans>
+</ques>
+<ques>
+<p1>The men in blue-Spoken about</p1>
+<p2>won-Action performed</p2>
+<p3>-</p3>
+<p4>-</p4>
+<cans>SV</cans>
+</ques>
+<ques>
+<p1>We-Spoken about</p1>
+<p2>bought-Action performed</p2>
+<p3>a book-What did ..</p3>
+<p4>-</p4>
+<cans>SVO</cans>
+</ques>
+<ques>
+<p1>They-Spoken about</p1>
+<p2>play-Action performed</p2>
+<p3>chess-What is ..</p3>
+<p4>every Sunday-When</p4>
+<cans>SVOA</cans>
+</ques>
+<ques>
+<p1>You-Spoken about</p1>
+<p2>always-When ..</p2>
+<p3>work-Action performed</p3>
+<p4>hard-How ..</p4>
+<cans>SAVA</cans>
+</ques>
+<ques>
+<p1>The sky-Spoken about</p1>
+<p2>is-be form of ..</p2>
+<p3>blue-finish it</p3>
+<p4>-</p4>
+<cans>SVC</cans>
+</ques>
+<ques>
+<p1>Laxmi-Spoken about</p1>
+<p2>likes-Action performed</p2>
+<p3>oranges-What is ..</p3>
+<p4>-</p4>
+<cans>SVO</cans>
+</ques>
+<ques>
+<p1>Laxmi-Spoken about</p1>
+<p2>narrated-Action performed</p2>
+<p3>the incident-What was ..</p3>
+<p4>to me-To whom</p4>
+<cans>SVDOIO</cans>
+</ques>
+<ques>
+<p1>Kala-Spoken about</p1>
+<p2>was sleeping-Action performed</p2>
+<p3>-</p3>
+<p4>-</p4>
+<cans>SV</cans>
+</ques>
+<ques>
+<p1>Avian flu-Spoken about</p1>
+<p2>spreads-Action performed</p2>
+<p3>quickly-How ..</p3>
+<p4>-</p4>
+<cans>SVA</cans>
+</ques>
+<ques>
+<p1>Yesterday-When</p1>
+<p2>we-Spoken about</p2>
+<p3>went-Action performed</p3>
+<p4>to the museum-Where</p4>
+<cans>ASVA</cans>
+</ques>
+<ques>
+<p1>The missile-Spoken about</p1>
+<p2>found-Action performed</p2>
+<p3>the target-What was ..</p3>
+<p4>-</p4>
+<cans>SVO</cans>
+</ques>
+<ques>
+<p1>We-Spoken about</p1>
+<p2>met-Action performed</p2>
+<p3>the nextday-When ..</p3>
+<p4>-</p4>
+<cans>SVA</cans>
+</ques>
+<ques>
+<p1>The man eater-Spoken about</p1>
+<p2>was killed-Action performed</p2>
+<p3>-</p3>
+<p4>-</p4>
+<cans>SV</cans>
+</ques>
+<ques>
+<p1>The man eater-Spoken about</p1>
+<p2>killed-Action performed</p2>
+<p3>a postman-What was ..</p3>
+<p4>-</p4>
+<cans>SVO</cans>
+</ques>
+<ques>
+<p1>She-Spoken about</p1>
+<p2>became-Action performed</p2>
+<p3>a lawyer-finish it</p3>
+<p4>-</p4>
+<cans>SVC</cans>
+</ques>
+<ques>
+<p1>I-Spoken about</p1>
+<p2>have brought-Action performed</p2>
+<p3>some puffs-What was ..</p3>
+<p4>-</p4>
+<cans>SVO</cans>
+</ques>
+<ques>
+<p1>This-Spoken about</p1>
+<p2>is-be form of ..</p2>
+<p3>a book-finish it</p3>
+<p4>-</p4>
+<cans>SVC</cans>
+</ques>
+<ques>
+<p1>She-Spoken about</p1>
+<p2>kept-Action performed</p2>
+<p3>the house-What was ..</p3>
+<p4>tidy-finish it</p4>
+<cans>SVOC</cans>
+</ques>
+<ques>
+<p1>The room-Spoken about</p1>
+<p2>was-be form of ..</p2>
+<p3>clean-finish it</p3>
+<p4>-</p4>
+<cans>SVC</cans>
+</ques>
+<ques>
+<p1>Last month-When ..</p1>
+<p2>it-Spoken about</p2>
+<p3>rained-Action performed</p3>
+<p4>heavily-How..</p4>
+<cans>ASVA</cans>
+</ques>
+<ques>
+<p1>He-Spoken about</p1>
+<p2>made-Action performed</p2>
+<p3>a tiny doll-What was ..</p3>
+<p4>-</p4>
+<cans>SVO</cans>
+</ques>
+<ques>
+<p1>The nights-Spoken about</p1>
+<p2>are-be form of ..</p2>
+<p3>cold-finish it</p3>
+<p4>in winter-When ..</p4>
+<cans>SVCA</cans>
+</ques>
+<ques>
+<p1>The days-Spoken about</p1>
+<p2>are-be form of ..</p2>
+<p3>long-finish it</p3>
+<p4>in summer-When ..</p4>
+<cans>SVCA</cans>
+</ques>
+<ques>
+<p1>Flowers-Spoken about</p1>
+<p2>bloom-Action performed</p2>
+<p3>in spring-When ..</p3>
+<p4>-</p4>
+<cans>SVA</cans>
+</ques>
+<ques>
+<p1>Some trees-Spoken about</p1>
+<p2>shed-Action performed</p2>
+<p3>their leaves -What was ..</p3>
+<p4>-</p4>
+<cans>SVO</cans>
+</ques>
+<ques>
+<p1>He-Spoken about</p1>
+<p2>donated-Action performed</p2>
+<p3>the orphanage-To whom</p3>
+<p4>a sack of rice-What was ..</p4>
+<cans>SVIODO</cans>
+</ques>
+<ques>
+<p1>The cow-Spoken about</p1>
+<p2>gives-Action performed</p2>
+<p3>us-To whom</p3>
+<p4>milk-What was ..</p4>
+<cans>SVIODO</cans>
+</ques>
+<ques>
+<p1>We-Spoken about</p1>
+<p2>watered-Action performed</p2>
+<p3>the saplings-What was ..</p3>
+<p4>-</p4>
+<cans>SVO</cans>
+</ques>
+<ques>
+<p1>We-Spoken about</p1>
+<p2>eat-Action performed</p2>
+<p3>dates-What was ..</p3>
+<p4>daily-When ..</p4>
+<cans>SVOA</cans>
+</ques>
+<ques>
+<p1>It-Spoken about</p1>
+<p2>was-be form of ..</p2>
+<p3>a long journey-finish it</p3>
+<p4>-</p4>
+<cans>SVC</cans>
+</ques>
+<ques>
+<p1>We-Spoken about</p1>
+<p2>travelled-Action performed</p2>
+<p3>four days-When ..</p3>
+<p4>-</p4>
+<cans>SVA</cans>
+</ques>
+<ques>
+<p1>A vendor-Spoken about</p1>
+<p2>comes-Action performed</p2>
+<p3>here-Where ..</p3>
+<p4>daily-When ..</p4>
+<cans>SVAA</cans>
+</ques>
+<ques>
+<p1>We-Spoken about</p1>
+<p2>saw-Action performed</p2>
+<p3>him-What was ..</p3>
+<p4>the next day-When ..</p4>
+<cans>SVOA</cans>
+</ques>
+<ques>
+<p1>It-Spoken about</p1>
+<p2>was-be form of ..</p2>
+<p3>a cobra-finish it</p3>
+<p4>-</p4>
+<cans>SVC</cans>
+</ques>
+<ques>
+<p1>The viper-Spoken about</p1>
+<p2>is-be form of ..</p2>
+<p3>quicker-finish it</p3>
+<p4>-</p4>
+<cans>SVC</cans>
+</ques>
+<ques>
+<p1>Tamil-Spoken about</p1>
+<p2>is spoken-Action performed</p2>
+<p3>all over the world--Where ..</p3>
+<p4>-</p4>
+<cans>SVA</cans>
+</ques>
+<ques>
+<p1>He-Spoken about</p1>
+<p2>was-be form of ..</p2>
+<p3>from Moscow--Where ..</p3>
+<p4>-</p4>
+<cans>SVA</cans>
+</ques>
+<ques>
+<p1>Last year-When ..</p1>
+<p2>we-Spoken about</p2>
+<p3>won-Action performed</p3>
+<p4>the cup-What was ..</p4>
+<cans>ASVO</cans>
+</ques>
+<ques>
+<p1>The calf-Spoken about</p1>
+<p2>was-be form of ..</p2>
+<p3>jet black-finish it</p3>
+<p4>-</p4>
+<cans>SVC</cans>
+</ques>
+<ques>
+<p1>The book-Spoken about</p1>
+<p2>was-be form of ..</p2>
+<p3>neatly-How</p3>
+<p4>covered-finish it</p4>
+<cans>SVAC</cans>
+</ques>
+<ques>
+<p1>He-Spoken about</p1>
+<p2>picked-Action performed</p2>
+<p3>a cane chair-What was ..</p3>
+<p4>-</p4>
+<cans>SVO</cans>
+</ques>
+<ques>
+<p1>We-Spoken about</p1>
+<p2>ate-Action performed</p2>
+<p3>gooseberries-What was ..</p3>
+<p4>-</p4>
+<cans>SVO</cans>
+</ques>
+<ques>
+<p1>The ducks-Spoken about</p1>
+<p2>are-be form of ..</p2>
+<p3>in the pond-Where ..</p3>
+<p4>-</p4>
+<cans>SVA</cans>
+</ques>
+<ques>
+<p1>The air-Spoken about</p1>
+<p2>was-be form of ..</p2>
+<p3>pure-finish it</p3>
+<p4>-</p4>
+<cans>SVC</cans>
+</ques>
+<ques>
+<p1>We-Spoken about</p1>
+<p2>covered-Action performed</p2>
+<p3>forty kilometer-What was ..</p3>
+<p4>in an hour-When ..</p4>
+<cans>SVOA</cans>
+</ques>
+<ques>
+<p1>The pen-Spoken about</p1>
+<p2>was-be form of ..</p2>
+<p3>costly-finish it</p3>
+<p4>-</p4>
+<cans>SVC</cans>
+</ques>
+</qpaper>

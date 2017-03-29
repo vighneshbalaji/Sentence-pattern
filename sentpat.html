@@ -1,0 +1,71 @@
+<html>
+<head>
+<title>Sentence pattern  { B S K  &  V B }</title>
+<script type="text/javascript" src="scripts/script.js"></script>
+<style type="text/css">
+	.clsh{visibility:hidden;}
+	.clsv{visibility:visible;}
+	.quest{font-size: 18pt; font-weight: bold;}
+	.opt{font-size: 11pt; }
+	#bsuans{font-weight: bold;}
+	#bscans{font-weight: bold;}
+	body{margin-left: 14%; margin-right: 4%; margin-top: 2%; background-color: #fffff0;}
+</style>
+</head>
+<body onload="xmlassgn();">
+<div align="center">
+<img src="images/mvbbsk.gif" title="Sampath Kumar & Vighneshbalaji" />
+<hr width="85%" color="#FF821C" />
+<img src="images/glowingstars.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="font-size: 21pt; letter-spacing: 5pt; word-spacing: 11pt; color: #808000;" title="Sampath Kumar & Vighneshbalaji"> Sentence Pattern </span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/glowingstars.gif" />
+<hr width="85%" color="#FF821C" /><br clear="all" />
+</div>
+<form name="senpat">
+	<table align="center" width="90%" cellpadding="10" border="0">
+		<tr>
+		<td colspan="3"> 
+		<span name="bsp1" id="bsp1" class="quest"></span>&nbsp;&nbsp;
+		<span name="bsp2" id="bsp2" class="quest"></span>&nbsp;&nbsp;
+		<span name="bsp3" id="bsp3" class="quest"></span>&nbsp;&nbsp;
+		<span name="bsp4" id="bsp4" class="quest"></span>
+		</td>
+		<td align="center">
+		<img src="" class="clsv" height="77px" name="ians" id="ians" />
+		</td>
+		</tr>
+		<tr>
+		<td colspan="3">
+		<span name="bso1" id="bso1"><select name='up1' size='1' class='opt' style='color: #ff800d;'> <option value=''>Select one</option> <option value='A'>Adjunct-Adverb</option> <option value='C'>Complement</option> <option value='DO'>Direct-Object</option>	<option value='IO'>Indirect-Object</option>	<option value='O'>Object</option> <option value='S'>Subject</option> <option value='V'>Verb</option> </select></span>&nbsp;&nbsp;
+		<span name="bso2" id="bso2"><select name='up2' size='1' class='opt' style='color: #cc0000;'> <option value=''>Select one</option> <option value='A'>Adjunct-Adverb</option> <option value='C'>Complement</option> <option value='DO'>Direct-Object</option>	<option value='IO'>Indirect-Object</option>	<option value='O'>Object</option> <option value='S'>Subject</opticon> <option value='V'>Verb</option> </select></span>&nbsp;&nbsp;
+		<span name="bso3" id="bso3"><select name='up3' size='1' class='opt' style='color: #000080;'> <option value=''>Select one</option> <option value='A'>Adjunct-Adverb</option> <option value='C'>Complement</option> <option value='DO'>Direct-Object</option>	<option value='IO'>Indirect-Object</option>	<option value='O'>Object</option> <option value='S'>Subject</option> <option value='V'>Verb</option> </select></span>&nbsp;&nbsp;
+		<span name="bso4" id="bso4"><select name='up4' size='1' class='opt' style='color: #009707;'> <option value=''>Select one</option> <option value='A'>Adjunct-Adverb</option> <option value='C'>Complement</option> <option value='DO'>Direct-Object</option>	<option value='IO'>Indirect-Object</option>	<option value='O'>Object</option> <option value='S'>Subject</option> <option value='V'>Verb</option> </select></span>
+		</td>
+		<td align="center">
+		<span name="scre" id="scre" class="clsh" style="cursor: none;"><span style="color: blue; font-weight: bold;">SCORE</span><br />
+		<input style="color: red; font-size: 13pt; font-weight: bold; text-align: center; border: 0px 0px 0px 0px;" type="text" name="scrbrd" id="scrbrd" size="10" readonly />
+		</span>
+		</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+			<span name="bsc1" id="bsc1" class="quest" style="color: #ff800d;"></span>&nbsp;&nbsp;
+			<span name="bsc2" id="bsc2" class="quest" style="color: #cc0000;"></span>&nbsp;&nbsp;
+			<span name="bsc3" id="bsc3" class="quest" style="color: #000080;"></span>&nbsp;&nbsp;
+			<span name="bsc4" id="bsc4" class="quest" style="color: #009707;"></span>
+			</td>
+		</tr>
+
+		<tr>
+		<td colspan="4">			
+		<span name="bsuanss" id="bsuanss" class="clsh" style="font-size: 14pt; vertical-align: top;">Your Answer:&nbsp;&nbsp;<span name="bsuans" id="bsuans"></span></span>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="images/go.jpg" name="sbt" id="sbt" width="150px" height="75px" title="Submit Your Answer" onclick="check();" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="images/clue.jpg" name="clbt" id="clbt" width="150px" height="65px" title="Get Help" onclick="clue();" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="images/score.jpg" name="scbt" id="scbt" width="100px" height="100px" title="Show Your Score Card" onclick="score();" />&nbsp;&nbsp;&nbsp;&nbsp;
+		<span name="bscanss" id="bscanss" class="clsh" style="font-size: 14pt; vertical-align: top;">Correct Answer:&nbsp;&nbsp;<span name="bscans" id="bscans"></span></span>	
+		</td>
+		</tr>
+	</table>
+	</form>
+</body>
+</html>
